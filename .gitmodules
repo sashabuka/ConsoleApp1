@@ -1,0 +1,3 @@
+[submodule "sources/ClassLibrary1"]
+	path = sources/ClassLibrary1
+	url = https://github.com/sashabuka/ClassLibrary1.git
